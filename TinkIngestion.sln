@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TinkIngestion", "TinkIngestion\TinkIngestion.csproj", "{54FF5B26-F898-4430-A4C2-4291BF0A965F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54FF5B26-F898-4430-A4C2-4291BF0A965F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FF5B26-F898-4430-A4C2-4291BF0A965F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FF5B26-F898-4430-A4C2-4291BF0A965F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FF5B26-F898-4430-A4C2-4291BF0A965F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {79D029CB-A121-4503-A719-513ED730930C}
+	EndGlobalSection
+EndGlobal
